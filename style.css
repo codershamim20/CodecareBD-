@@ -1,0 +1,22 @@
+#abc :: after{
+    content:"Hasan";
+}
+.menu{
+    background-color: green;
+    height: 50px;
+    width: 1350px;
+}
+ul li{
+    list-style-type: none;
+    float:right;
+    
+
+}
+ul li a{
+    text-decoration: none;
+    color:rgb(250, 252, 250);
+    padding: 10px 20px;
+    display:inline-block;
+    border: 1px solid #ffff;
+    background:indigo;
+}
